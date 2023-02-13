@@ -13,4 +13,4 @@ do
         echo Package manager: ${osInfo[$f]}
     fi
 done
-
+echo "This is working"
